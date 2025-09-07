@@ -14,3 +14,10 @@
 6. React Icons Library
 7. Framer Motion Library
 
+#### Features
+
+1. A Toast is displayed at the top left corner for every 5 facts read.
+2. Dark Mode functionality where selected mode is stored in local storage and persisted on browser refresh.
+3. Fully responsive
+4. Framer Motion libary used to animate new generated facts.
+
