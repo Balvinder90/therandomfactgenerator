@@ -389,30 +389,23 @@ button.toggle svg {
   justify-content: center;
   align-items: center;
   padding: 0.3rem;
+  transition: all 0.6s;
 }
 
-.dark .footer-icons a:focus {
-  outline-color: #fff;
-  outline-style: solid;
-  outline-width: 1px;
-  padding: 0.3rem;
+.footer-icons a:hover {
+  opacity: 0.5;
+  outline: none;
 }
 
-.light .footer-icons a:focus {
-  outline-color: #1c1c1c;
-  outline-style: solid;
-  outline-width: 1px;
-  padding: 0.3rem;
+.footer-icons a:focus {
+  opacity: 0.5;
+  outline: none;
 }
 
 .footer-icons a svg {
   width: 2.2rem;
   height: 2.2rem;
   transition: all 0.5s;
-}
-
-.footer-icons a svg:hover {
-  opacity: 0.5;
 }
 
 .dark .footer-icons a svg {
