@@ -2,7 +2,7 @@
 
 ### A small app where you can generate random facts.
 
-#### React Version Link -  https://therandomfactgenerator.netlify.app/
+#### Link -  https://therandomfactgenerator.netlify.app/
 
 #### What was used to build the app
 
