@@ -1,10 +1,10 @@
 # The Random Fact Generator
 
-### An application where you can generate random facts.
+### A small app where you can generate random facts.
 
 #### React Version Link -  https://therandomfactgenerator.netlify.app/
 
-#### What was used to build the application
+#### What was used to build the app
 
 1. HTML
 2. CSS
